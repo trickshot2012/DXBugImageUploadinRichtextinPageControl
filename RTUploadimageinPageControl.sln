@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RTUploadimageinPageControl", "RTUploadimageinPageControl\", "{A657F428-C3AF-4C73-8D5D-F8B2E4686A90}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51628"
+		Debug.AspNetCompiler.PhysicalPath = "RTUploadimageinPageControl\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51628\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51628"
+		Release.AspNetCompiler.PhysicalPath = "RTUploadimageinPageControl\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51628\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51628"
+		SlnRelativePath = "RTUploadimageinPageControl\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A657F428-C3AF-4C73-8D5D-F8B2E4686A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A657F428-C3AF-4C73-8D5D-F8B2E4686A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59B489A-BB13-4B8D-A255-0EA7DC1D082D}
+	EndGlobalSection
+EndGlobal
